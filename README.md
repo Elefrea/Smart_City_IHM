@@ -28,3 +28,5 @@ Interface homme machine réalisé avec node red pour un projet universitaire.
 </ul>
 
 Vous pouvez maintenant modifier les paramètres horaires sur l'interface pour gérer l'heure d'allumage et d'extinction.
+
+![image](https://user-images.githubusercontent.com/62560237/105811338-c3449f00-5fac-11eb-80ec-b33fc9fc0433.png)
